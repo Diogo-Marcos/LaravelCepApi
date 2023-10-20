@@ -50,7 +50,7 @@
                                         <label for="zipcode" class="block text-sm font-medium leading-6 text-gray-900"></label>
                                         <div class="mt-2">
                                             <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Buscar CEP :
-                                            <input id="zipcode" name="zipcode" type="" autocomplete="" required class="block w-full rounded-full border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6">
+                                            <input id="zipcode" name="zipcode" type="" autocomplete="" required style="padding-left: 6px;" class="block w-full rounded-full border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6">
                                             </h2>
                                         </div>
                                     </div>
